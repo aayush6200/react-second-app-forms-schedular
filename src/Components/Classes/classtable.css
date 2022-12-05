@@ -1,0 +1,15 @@
+.card-control-items{
+    margin: 20px;
+    background-color:#282c34;
+    box-shadow: 3px,4px,15px,7px,rgb(111, 93, 93);
+    transition: 0.1s;
+    border-collapse: collapse;
+    
+  
+  }
+  .card-control-items:hover {
+    box-shadow: 0 8px 16px 0 white;
+  }
+  
+
+

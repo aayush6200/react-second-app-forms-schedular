@@ -1,0 +1,31 @@
+.cards{ 
+    width:300px;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 200px;
+    background-color:rgb(113, 95, 95);
+    background: url('mteverest.jpg') no-repeat 0 0 scroll;
+    box-shadow: 3px,4px,15px,10px,rgb(111, 93, 93);
+    transition: 0.1s;
+    background-size:cover;
+    justify-content: space-between;
+    
+}
+.cards:hover {
+    box-shadow: 0 8px 16px 0 white;
+  }
+
+.cards-items{
+  display:flexbox;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 50px;
+
+ 
+}
+.cards-items-controls-btn{
+  padding-top:10px ;
+}
+h{
+  color:white;
+}

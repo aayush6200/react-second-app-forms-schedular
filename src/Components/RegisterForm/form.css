@@ -1,0 +1,11 @@
+.form-control{
+    object-fit: contain;
+    border-radius: 20px;
+    background-color: rgb(160, 53, 90);
+    border-collapse: collapse;
+    
+    
+}
+.form-control:hover{
+    box-shadow: 0 8px 16px 0 darkcyan;
+ }
